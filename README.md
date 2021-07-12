@@ -28,3 +28,5 @@
 [11/07/2021] (23:08) = Adicionado e salvando a versão antiga do site no GitHub(v0.1).
   
 [11/07/2021] (23:09) = Conclusão da organização do site, criada e adicionada as imagens à pasta img, e também alterado no código.
+
+[11/07/2021] (23:37) = Adicionado e salvando a versão do site no GitHub(v0.2), a qual foi feita hoje.
